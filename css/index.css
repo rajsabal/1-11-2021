@@ -1,0 +1,230 @@
+body{
+    color: rgb(8, 53, 39);
+    background-color: rgb(250, 212, 165);
+}
+
+.sign{
+    display: inline-block;
+    color: rgb(46, 46, 141);
+    margin-left: 50%;
+}
+.company{
+    display: inline-block;
+    color: rgb(46, 46, 141);
+    margin-left: 4%;
+}
+.product{
+    display: inline-block;
+    color: rgb(46, 46, 141);
+    margin-left: 4%;
+}
+.contect{
+    display: inline-block;
+    color: rgb(46, 46, 141);
+    margin-left: 4%;
+}
+.eng{
+    display: inline-block;
+    color: rgb(46, 46, 141);
+    margin-left: 4%;
+}
+
+.header2{
+    margin-top: 20px;
+    color: rgb(8, 53, 39);
+}
+.Zendex{
+    margin-left: 40px;
+display: inline-block;
+margin-right: 7%;
+}
+.Product{
+    display: inline-block;
+    margin-right: 7%;
+}
+.price{
+    display: inline-block;
+    margin-right: 7%;
+}
+.solulion{
+    display: inline-block;
+    margin-right: 7%;
+}
+.demo{
+    display: inline-block;
+    margin-right: 7%;
+}
+.secrvice{
+    display: inline-block;
+    margin-right: 7%;
+}
+.resource{
+    display: inline-block;
+    margin-right: 7%;
+}
+.trial1{
+    background-color: rgb(5, 78, 78);
+    display: inline-block;
+    margin-right: 7%;  
+    padding: 10px;
+    color: rgb(250, 212, 165);
+}
+ .profile{
+    margin-left: 50px;
+    color: rgb(8, 53, 39);
+}
+/* .pic{
+    width: 0;
+    float: right;
+    margin: 0 20px 0 30px;
+    width: 30rem;
+    height: 22rem;
+} */
+.live{
+    font-size: 5rem;
+}
+.reach{
+    font-size: 2rem;
+}
+.free{
+    display: inline-block;
+    margin-right: 20px;
+    background-color: rgb(38, 92, 76);
+    color: rgb(250, 212, 165);
+    font-size: 1.5rem;
+    padding: 15px;
+    font-family: monospace;
+}
+.vdemo{
+    display: inline-block;
+    color: rgb(5, 77, 55);
+    font-size: 1.5rem;
+    border-style: double;
+    /* border-width: 30px; */
+    padding: 10px;
+    font-family: monospace;
+} 
+.carousel-item{
+    padding: 0% 30%;
+}
+.d-block{
+    width: 100px;
+    /* height: 100px; */
+}
+
+.pic{
+    /* display: inline-block; */
+    margin: 0 20px 0 30px;
+    width: 30rem;
+    height: 22rem;
+   
+}
+.mid1
+{  
+     /* background-color: rgb(154, 194, 240); */
+    margin: 20px -10px;
+    padding: 30px;
+    background-color: rgb(217, 190, 218);
+    background-color: white;
+}
+#carouselExampleControls{
+    background-color: rgb(217, 190, 218);
+    margin: -30px -30px 10px;
+}
+.zow{
+    display: inline-block;
+}
+.face{
+    display: inline-block;
+}
+.tabl{
+    background-color: #fff; 
+    margin: -10px;
+    padding: 20px;
+}
+   
+   table {
+      
+       text-align: center;
+    border: 1px solid black;
+  border-collapse: collapse;
+
+    /* margin: 20px; */
+}
+td{
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
+th{
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media  (max-width:1022px) {
+    .sign{
+        margin-left: 30%;
+    }
+    .company{
+        margin-left: 3%;
+    }
+    .product{
+        margin-left: 3%;
+    }
+    .contect{
+        margin-left: 3%;
+    }
+    .eng{
+        margin-left: 3%;
+    }
+    
+    .header2{
+        margin-top: 20px;
+    }
+    .Zendex{
+    display: inline-block;
+    margin-right: 6%;
+    }
+    .Product{
+        display: inline-block;
+        margin-right: 6%;
+    }
+    .price{
+        display: inline-block;
+        margin-right: 6%;
+    }
+    .solulion{
+        display: inline-block;
+        margin-right: 6%;
+    }
+    .demo{
+        display: inline-block;
+        margin-right: 6%;
+    }
+    .secrvice{
+        display: inline-block;
+        margin-right: 6%;
+    }
+    .resource{
+        display: inline-block;
+        margin-right: 6%;
+    }
+    .trial{
+        display: inline-block;
+        margin-right: 8%;  
+    }
+    
+    
+}
