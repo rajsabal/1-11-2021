@@ -8,6 +8,9 @@ body{
     margin-top: -25px;
     
 }
+.navbar-nav{
+    margin-left: auto;
+}
 .header2{
     margin-top: 20px;
     color: rgb(8, 53, 39);
