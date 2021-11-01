@@ -3,17 +3,17 @@ body{
     background-color: rgb(250, 212, 165);
 }
 
-
-.navbar{
-     padding: 20px 30px;
-    margin-top: -25px;
-    
-}
 .navbar-nav{
     margin-left: auto;
 }
+.navbar{
+    
+    padding: 20px 20px 10px 80px;
+    margin: -30px -15px;
+    
+}
 .header2{
-    margin-top: 20px;
+    margin-top: 40px;
     color: rgb(8, 53, 39);
 }
 .cool{
@@ -118,6 +118,18 @@ th{
     border: 1px solid;
     border-collapse: collapse;
     padding: 10px;
+}
+.footer{
+   margin-top: 20px;
+   text-align: center;
+}
+.pow{
+    color: rgb(14, 13, 88);
+    display: inline-block;
+    padding: 0;
+}
+.p{
+    display: inline-block;
 }
 
 
